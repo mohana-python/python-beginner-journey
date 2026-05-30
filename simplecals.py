@@ -1,0 +1,13 @@
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+result1 = int(num1) + int(num2)
+print(result1)
+num3 = input("Enter a number: ")
+num4 = input("Enter another number: ")
+result2 = float(num3) + float(num4)
+print(result2)
+
+fav_color=input("Enter your favourite color: ")
+fav_food=input("Enter your favourite food: ")
+print("Your favourite color is "+fav_color)
+print("Your favourite food is "+fav_food)
