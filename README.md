@@ -49,9 +49,17 @@ Computer Science graduate currently based in the USA, actively learning Python a
 
 ---
 
+## 🧪 Projects
+
+### 1. Student Grade Calculator (Coming Soon)
+A Python program that takes student marks as input and returns grades using conditional statements.
+
+## 🚀 Next Step
+I am currently working on building my first Python mini projects and improving problem-solving skills.
+
 ## 🎯 Goal
 
-To become job-ready in Python and Data Analytics by building consistent daily practice and real-world projects.
+To become job-ready for Entry-Level Data Analyst roles in the USA by building Python and data analysis projects.
 
 ---
 
