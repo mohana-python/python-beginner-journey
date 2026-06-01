@@ -51,11 +51,34 @@ Computer Science graduate currently based in the USA, actively learning Python a
 
 ## 🧪 Projects
 
-### 1. Student Grade Calculator (Coming Soon)
-A Python program that takes student marks as input and returns grades using conditional statements.
+### 1. Student Grade Calculator (In Progress)
 
-## 🚀 Next Step
-I am currently working on building my first Python mini projects and improving problem-solving skills.
+A Python project that takes student marks as input and calculates grades using conditional statements. This project will demonstrate my understanding of:
+
+* Input/output handling
+* Conditional logic
+* Basic program structure
+
+---
+
+## 🚀 What I'm Working On Next
+
+I am currently focused on building small Python projects to strengthen my problem-solving skills and prepare for entry-level Data Analyst roles.
+
+Upcoming projects:
+
+* Grade Calculator System
+* Simple Expense Tracker
+* Basic Data Analysis Project
+
+---
+
+## 📌 Learning Approach
+
+I am following a structured, hands-on learning approach:
+
+* Learn concept → Practice code → Build small project → Upload to GitHub
+
 
 ## 🎯 Goal
 
