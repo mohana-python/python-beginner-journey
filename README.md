@@ -51,9 +51,8 @@ Computer Science graduate currently based in the USA, actively learning Python a
 
 ## 🧪 Projects
 
-### 1. Student Grade Calculator (In Progress)
-
-A Python project that takes student marks as input and calculates grades using conditional statements. This project will demonstrate my understanding of:
+### Student Grade Calculator
+A Python project that calculates student grades based on marks using conditional statements.
 
 * Input/output handling
 * Conditional logic
